@@ -1,0 +1,10 @@
+9
+A3,Chi Pheo,Nam Cao,NXB Van Hoc,70000,2006,327,10/6/2017,0
+B4,Tat Den,Ngo Tat To,NXB Van Hoc,80000,2008,201,15/2/2016,0
+D3,Vo Nhat,Kim Lan,NXB Van Hoc,45000,2016,207,20/6/2018,0
+C2,An Khe Tra Vang,Phuong Tam,NXB Dong Nai,50000,2007,197,15/12/2011,0
+D7,Code Dao Ky Su,Huy Hoang,NXB Dan Tri,120000,2016,266,30/1/2017,0
+E8,Lap trinh va cuoc song,Jeff Atwood,NXB Dan Tri,127000,2017,324,30/4/2018,0
+E5,To Hoc Lap Trinh,Nha Nam,NXB The Gioi,88000,2017,222,30/9/2018,0
+F4,Lap trinh huong doi tuong,Tran Dan Thu,NXB KHKT,12000,2010,370,20/3/2017,0
+G3,Kinh te hoc,Phan Thuy,NXB Dan Tri,280000,2018,352,19/5/2018
