@@ -1,0 +1,6 @@
+5
+sv1,Tran Hoang Tu,CNTT,K18,30/4/2019
+sv2,Nguyen Phuong Tan,CNTT,K18,26/3/2019
+sv3,Nguyen Van Long,CNTT,K18,01/5/2019
+sv4,Tran Trieu Thuan,CNTT,K18,03/5/2019
+sv5,Tran Phong Nha,CNTT,K18,25/4/2019
